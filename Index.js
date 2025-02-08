@@ -6,12 +6,6 @@ import { getDatabase,
          remove } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-database.js"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAYFieLOiRw_ESvUtw81Ebns1CRlUboBO4",
-    authDomain: "leads-tracker-analytics.firebaseapp.com",
-    projectId: "leads-tracker-analytics",
-    storageBucket: "leads-tracker-analytics.firebasestorage.app",
-    messagingSenderId: "26911336686",
-    appId: "1:26911336686:web:7cac37905bb5d708b7abff",
     databaseURL:"https://leads-tracker-analytics-default-rtdb.firebaseio.com/"
 };
 
